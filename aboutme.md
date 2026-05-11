@@ -1,11 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: A good guy
+subtitle: Building companies
 ---
 
-First and foremost I am a hacker at heart.
+CEO @ Airfold
+Backed by the investors of Databricks, Shopify, Deel, Figma, Robinhood, Airtable, and more.
 
-Besides just hacking all day, I also like to workout a lot, because it makes me satisfied when I perceive my body as something more than just a transportation vehicle for my brain.
+I started Airfold after scaling one of the world's largest data platforms at Klaviyo serving 180k customers.
 
-I enjoy company too, no evening is better than to drink beer with friends and just laugh at nerdy jokes, by the way if you're one of those guys then contact me.
+Prior to Klaviyo, I worked at DataRobot where I built a time series database used today by Bank of America, Wells Fargo, the US Govt, and the US Army.
+
+We're growing a world-class team in SF. Want to join? Message me with a proof of exceptional talent.
